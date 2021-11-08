@@ -1,0 +1,13 @@
+.fields-wrapper {
+    display: flex;
+    flex-direction: column;
+}
+
+.title-input, .descr-input {
+    padding: 8px;
+    margin-bottom: 15px;
+}
+
+.button {
+    padding: 8px;
+}

@@ -1,0 +1,19 @@
+.list-item {
+    display: flex;
+    margin-bottom: 10px;
+}
+
+.note-text {
+    cursor: pointer;
+}
+
+.note-text:hover {
+    color: red;
+}
+
+.delete-btn {
+    background: #ddd;
+    border: none;
+    cursor: pointer;
+    margin-left: 10px;
+}
